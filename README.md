@@ -99,7 +99,7 @@ Il modello finale raggiunge un accuratezza in fase di training pari al ***85%***
 ### *Test*
 
 ---
-<img src="data/viz/alexnet_test.png" alt="example" width="700"/>
+<img src="data/viz/alexnet_test.PNG" alt="example" width="700"/>
 
 In fase di test il modello presenta un accuracy del ***78%***
 
